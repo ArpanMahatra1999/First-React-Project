@@ -1,0 +1,14 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "First title",
+      "description": "First description describes about the first title."
+    },
+    {
+      "id": 2,
+      "title": "Second title",
+      "description": "Second description describes about the second title."
+    }
+  ]
+}
