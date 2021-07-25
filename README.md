@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Major Requirements
+1. Install node.js and react.js
+2. Install json-server
+3. Install react-router-dom@5
+
 ## Available Scripts
 
 In the project directory, you can run:
